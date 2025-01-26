@@ -1,0 +1,32 @@
+/* border-width: 2px;
+border-style: solid / dotted / dashed / 
+border-color: black; */
+
+h1 {
+  height: 100px;
+  width: 600px;
+  background-color: rgb(152, 206, 152);
+  /* border-width: 2px;
+  border-style: solid;
+  border-color: rgb(0, 0, 0); */
+  border: 2px solid black;
+  text-align: center;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(101, 139, 101);
+  border-width: 5px;
+  border-style: dashed;
+  border-color: brown;
+}
+
+.box1{
+    height: 200px;
+    width: 200px;
+    background-color: lightgreen;
+    border: 2px solid brown;
+    /* border-radius: 25%; */
+    border-radius: 20px;
+}
