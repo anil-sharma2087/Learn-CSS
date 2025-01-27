@@ -1,0 +1,27 @@
+div{
+    width: 100px;
+    height: 100px;
+    margin: 25px;
+    display: inline-block;
+}
+.box1{
+    background-color: brown;
+}
+.box2{
+    background-color: blueviolet;
+}
+.box3{
+    background-color: aquamarine;
+}
+
+
+
+
+
+/* div{
+    background-color: bisque;
+    display: inline;
+}
+button{
+    display: block;
+} */

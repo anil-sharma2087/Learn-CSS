@@ -1,0 +1,43 @@
+.contentBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+.content{
+    height: 700px;
+}
+
+.navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+.logo{
+    color: #f08804;
+    font-size: 28px;
+}
+
+a{
+    margin-right: 200px;
+    text-decoration: none;
+    color: #fff;
+}
+
+button{
+    background-color: #f08804;
+}
+
+.box1{
+    background-color: brown;
+}
+.box2{
+    background-color: blueviolet;
+}
+.box3{
+    background-color: aquamarine;
+}
+footer{
+    background-color: #0f1111;
+    color: #fff;
+}
+
