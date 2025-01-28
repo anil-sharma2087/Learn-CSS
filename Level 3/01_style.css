@@ -1,0 +1,18 @@
+#box1{
+    height: 100px;
+    width: 200px;
+    background-color: green;
+    font-size: 10px;
+}
+#box2{
+    height: 50px;
+    width: 30%;
+    background-color: yellow;
+    margin-left: 10%;
+    font-size: 1em; 
+    width: 5rem;
+}
+/* 
+vh: relative to 1% viewport height
+vw: relative to 1% viewport width
+*/
