@@ -1,0 +1,25 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    transition: all 2s ease-in 1s;
+}
+div:hover{
+    font-size: 20px;
+    /* transform: rotate(45deg); */
+    /* rotate: 90deg; */
+    /* transform: scale(2); */
+    /* transform: scalex(2); */
+    /* transform: scaley(2); */
+    /* transform: scale(2, 1); */
+    /* transform: translateX(80px); */
+    /* transform: translateY(80px); */
+    /* transform: translate(80px, 60px); */
+    /* transform: skew(45deg); */
+    /* transform: skewX(45deg); */
+    /* transform: skewY(45deg); */
+}
